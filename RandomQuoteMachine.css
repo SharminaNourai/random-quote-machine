@@ -1,0 +1,29 @@
+/*style for random quote machine*/
+body {
+    background-color: DarkSeaGreen;
+}
+
+h1 {
+    color: Purple;
+    font-family: "Great Vibes";
+    text-align: center;
+    padding: 50px;
+    font-size: 125px;
+}
+
+.quote-area {
+    text-align: center;
+    font-size: 25px;
+    font-family: serif;;
+    font-style: italic;
+}
+
+.btn {
+    font-family: "Great Vibes";
+    font-size: 25px;
+    color: Purple;
+    text-align: center;
+    height: 10%;
+    width: 10%;
+    margin: 50px;
+}
